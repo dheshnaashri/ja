@@ -1,4 +1,4 @@
-public class day6 {
+public class day6                  {
 
     static class Car {
         String color;
