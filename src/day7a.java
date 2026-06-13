@@ -45,7 +45,7 @@ public class day7a{
        }
         @Override
         public String solveProblem() {
-            System.out.println("Problem Solved        git");
+            System.out.println("Problem Solved");
             return "Problem Solved";
         }
 
