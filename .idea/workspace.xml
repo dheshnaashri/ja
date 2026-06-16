@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a23d679-f1e3-44d9-b333-6e188fc1397e" name="Changes" comment="calculations">
-      <change afterPath="$PROJECT_DIR$/src/com/edu/dept/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/edu/year/Year.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day83_sealed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/edu/college/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10link.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
