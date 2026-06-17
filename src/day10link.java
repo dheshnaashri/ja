@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 public class day10link {
     static void main() {
-        LinkedList<String>queue = new LinkedList<String>();
+        LinkedL b b ist<String>queue = new LinkedList<String>();
             queue.add("Dhuvan");
             queue.add("Shreyas");
             queue.add("Ashhmi");
