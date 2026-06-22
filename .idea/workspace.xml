@@ -6,9 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="3a23d679-f1e3-44d9-b333-6e188fc1397e" name="Changes" comment="calculations">
       <change afterPath="$PROJECT_DIR$/src/day14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14_factory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day13-2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day13-2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Files/student.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13-2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -63,6 +67,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ja\Files" />
+      <recent name="D:\ja" />
       <recent name="D:\ja\src\file" />
       <recent name="D:\ja\src\com\edu" />
       <recent name="D:\ja\src\com\edu\college" />
