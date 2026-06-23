@@ -8,6 +8,8 @@
       <change afterPath="$PROJECT_DIR$/src/day14.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day14Strategy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day14_factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15sync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day15threads.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Files/report.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Files/student.csv" beforeDir="false" />
