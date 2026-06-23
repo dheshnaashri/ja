@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a23d679-f1e3-44d9-b333-6e188fc1397e" name="Changes" comment="calculations">
       <change afterPath="$PROJECT_DIR$/src/day14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14Strategy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/day14_factory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Files/report.txt" beforeDir="false" />

@@ -19,7 +19,7 @@ public class day14_factory {
             case "Email"-> factory.new EmailNotification();
             case "Whatsapp"-> factory.new WhatsappNotification();
             default -> throw new IllegalArgumentException("Invalid notification type: "+type);
-        };
+                         };
     }
 
     static void main() {
